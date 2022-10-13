@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://you-zy.github.io/You_ZY.github.io</id>
+    <title>子猷的小窝</title>
+    <updated>2022-10-13T07:57:36.959Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://you-zy.github.io/You_ZY.github.io"/>
+    <link rel="self" href="https://you-zy.github.io/You_ZY.github.io/atom.xml"/>
+    <subtitle>今天也是要努力创作和生活的一天呢！
+&lt;br&gt;还不认识某猷的朋友可以移步下方的“关于”链接哦（笑）&lt;/br&gt;</subtitle>
+    <logo>https://you-zy.github.io/You_ZY.github.io/images/avatar.png</logo>
+    <icon>https://you-zy.github.io/You_ZY.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2022, 子猷的小窝</rights>
+    <entry>
+        <title type="html"><![CDATA[春去]]></title>
+        <id>https://you-zy.github.io/You_ZY.github.io/post/chun-qu/</id>
+        <link href="https://you-zy.github.io/You_ZY.github.io/post/chun-qu/">
+        </link>
+        <updated>2022-10-13T07:55:48.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[论一个房子两个人]]></title>
+        <id>https://you-zy.github.io/You_ZY.github.io/post/lun-yi-ge-fang-zi-liang-ge-ren/</id>
+        <link href="https://you-zy.github.io/You_ZY.github.io/post/lun-yi-ge-fang-zi-liang-ge-ren/">
+        </link>
+        <updated>2022-10-08T14:00:45.000Z</updated>
+        <summary type="html"><![CDATA[<p>cp敬猷，不喜勿入。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>cp敬猷，不喜勿入。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[三行诗集合]]></title>
+        <id>https://you-zy.github.io/You_ZY.github.io/post/san-xing-shi-ji-he/</id>
+        <link href="https://you-zy.github.io/You_ZY.github.io/post/san-xing-shi-ji-he/">
+        </link>
+        <updated>2022-09-28T09:36:17.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[唠嗑唠嗑]]></title>
+        <id>https://you-zy.github.io/You_ZY.github.io/post/to say something/</id>
+        <link href="https://you-zy.github.io/You_ZY.github.io/post/to say something/">
+        </link>
+        <updated>2022-09-27T14:36:16.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[今日份进展]]></title>
+        <id>https://you-zy.github.io/You_ZY.github.io/post/jin-ri-fen-jin-zhan/</id>
+        <link href="https://you-zy.github.io/You_ZY.github.io/post/jin-ri-fen-jin-zhan/">
+        </link>
+        <updated>2022-09-12T00:18:24.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[蓝星]]></title>
+        <id>https://you-zy.github.io/You_ZY.github.io/post/lan-xing/</id>
+        <link href="https://you-zy.github.io/You_ZY.github.io/post/lan-xing/">
+        </link>
+        <updated>2022-09-11T07:24:23.000Z</updated>
+        <summary type="html"><![CDATA[<blockquote>
+<p><strong>是参加作文比赛时写的稿子，某猷也不知道写了些什么，就当看个乐吧（其实看起来并不能乐）</strong></p>
+</blockquote>
+]]></summary>
+        <content type="html"><![CDATA[<blockquote>
+<p><strong>是参加作文比赛时写的稿子，某猷也不知道写了些什么，就当看个乐吧（其实看起来并不能乐）</strong></p>
+</blockquote>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Debuff Doubled]]></title>
+        <id>https://you-zy.github.io/You_ZY.github.io/post/Nooooooooooo/</id>
+        <link href="https://you-zy.github.io/You_ZY.github.io/post/Nooooooooooo/">
+        </link>
+        <updated>2022-09-10T10:53:20.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hello World！]]></title>
+        <id>https://you-zy.github.io/You_ZY.github.io/post/ni-hao-jia-ren-men-huan-ying-lai-dao-zi-you-de-jia/</id>
+        <link href="https://you-zy.github.io/You_ZY.github.io/post/ni-hao-jia-ren-men-huan-ying-lai-dao-zi-you-de-jia/">
+        </link>
+        <updated>2022-09-08T14:43:24.000Z</updated>
+    </entry>
+</feed>
